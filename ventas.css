@@ -201,3 +201,11 @@ button:active {
         font-size: 0.8rem;
     }
 }
+
+.error-message {
+    color: red;
+    font-style: italic;
+    font-size: 0.8rem;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
